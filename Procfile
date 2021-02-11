@@ -1,1 +1,1 @@
-web: gunircon Restaurante.wsgi
+web: gunicorn Restaurante.wsgi
