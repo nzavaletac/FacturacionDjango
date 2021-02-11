@@ -27,7 +27,7 @@ SECRET_KEY = '(7os42#894bky(c560=fy-88$6j5@ar%#^5jk15jh-um!@2ro$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['facturacion-django-noe.herokuapp.com']
 
 
 # Application definition
